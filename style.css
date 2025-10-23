@@ -249,7 +249,7 @@ h1 {
   font-weight: 600;
 }
 .certificate-card{
-  background: rgba(226, 124, 155, 0.9);
+  background: rgba(146, 185, 215, 0.3);
   width:260px;
   border-radius:12px;
   overflow:hidden;
@@ -285,10 +285,10 @@ h1 {
   margin: 3px;
   border-radius: 5px;
   font-weight: 600; 
-  color:#030303;
+  color:#efeaea;
 }
 .view-btn:hover{
-  background:#fff;
+  background:#242323;
 }
 .cert-meta:hover{
   color:#e75480;
@@ -329,7 +329,6 @@ h1 {
   width: 100%;
 }
 
-/* Card Animation */
 .tech-card {
   opacity: 0;
   transition: opacity 0.8s ease, transform 0.8s ease;
@@ -341,7 +340,6 @@ h1 {
   transform: translateX(0);
 }
 
-/* Circle Ring with progress only on the border */
 .circle-wrap {
   position: relative;
   width: 120px;
