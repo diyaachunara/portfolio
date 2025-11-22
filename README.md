@@ -19,7 +19,7 @@ The website is fully responsive and hosted on **Netlify/GitHub Pages**.
 - **Deployment:** Netlify / GitHub Pages  
 
 ## 📂 Project Setup
-1. Live:
-    portfolio-8zepv52p5-diyaachunara-7653s-projects.vercel.app
-2. Clone the repository:
+## 🔗 Live Portfolio
+ 👉 [Click Here](https://portfolio-8zepv52p5-diyaachunara-7653s-projects.vercel.app)
+Clone the repository:
    git clone https://github.com/diyaachunara/portfolio.git
